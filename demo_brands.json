@@ -1,0 +1,12 @@
+[
+    {
+        "companyId": 1,
+        "githubBrandFolderName": "shieldpoint",
+        "isDemoApp": false
+    },
+    {
+        "companyId": 2,
+        "githubBrandFolderName": "atlo",
+        "isDemoApp": false
+    }
+]
