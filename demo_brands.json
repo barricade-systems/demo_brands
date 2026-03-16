@@ -1,12 +1,10 @@
 [
     {
         "companyId": 1,
-        "githubBrandFolderName": "shieldpoint",
-        "isDemoApp": false
+        "githubBrandFolderName": "shieldpoint"
     },
     {
         "companyId": 2,
-        "githubBrandFolderName": "atlo",
-        "isDemoApp": false
+        "githubBrandFolderName": "atlo"
     }
 ]
