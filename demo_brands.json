@@ -30,5 +30,13 @@
             "prod": 16
         },
         "githubBrandFolderName": "ld_zeus"
+    },
+    {
+        "companyId": {
+            "dev": 17,
+            "qa": 17,
+            "prod": 17
+        },
+        "githubBrandFolderName": "elektromaks"
     }
 ]
