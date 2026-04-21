@@ -38,5 +38,13 @@
             "prod": 17
         },
         "githubBrandFolderName": "elektromaks"
+    },
+    {
+        "companyId": {
+            "dev": 18,
+            "qa": 18,
+            "prod": 18
+        },
+        "githubBrandFolderName": "ronsegur"
     }
 ]
