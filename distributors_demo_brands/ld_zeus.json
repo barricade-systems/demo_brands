@@ -1,0 +1,18 @@
+[
+    {
+        "companyId": {
+            "dev": 1,
+            "qa": 1,
+            "prod": 1
+        },
+        "githubBrandFolderName": "shieldpoint"
+    },
+    {
+        "companyId": {
+            "dev": 2,
+            "qa": 2,
+            "prod": 2
+        },
+        "githubBrandFolderName": "atlo"
+    }
+]
