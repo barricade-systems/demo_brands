@@ -1,0 +1,10 @@
+[
+    {
+        "companyId": {
+            "dev": 15,
+            "qa": 15,
+            "prod": 15
+        },
+        "githubBrandFolderName": "crow"
+    }
+]
