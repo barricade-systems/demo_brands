@@ -46,8 +46,7 @@
             "prod": 18
         },
         "githubBrandFolderName": "ronsegur"
-    }
-    ,
+    },
     {
         "companyId": {
             "dev": 19,
@@ -55,8 +54,7 @@
             "prod": 19
         },
         "githubBrandFolderName": "vera"
-    }
-    ,
+    },
     {
         "companyId": {
             "dev": 20,
@@ -64,5 +62,14 @@
             "prod": 20
         },
         "githubBrandFolderName": "idea_time"
+    },
+    {
+        "companyId": {
+            "dev": 22,
+            "qa": 22,
+            "prod": 22
+        },
+        "githubBrandFolderName": "ohma",
+        "distributorDemoBrandName": "ohma"
     }
 ]
