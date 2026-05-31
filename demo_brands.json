@@ -70,6 +70,13 @@
             "prod": 22
         },
         "githubBrandFolderName": "ohma",
-        "distributorDemoBrandName": "ohma"
+    },
+	{
+        "companyId": {
+            "dev": 23,
+            "qa": 23,
+            "prod": 23
+        },
+        "githubBrandFolderName": "dsoc"
     }
 ]
