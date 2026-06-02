@@ -6,5 +6,13 @@
             "prod": 15
         },
         "githubBrandFolderName": "crow"
+    },
+    {
+        "companyId": {
+            "dev": 24,
+            "qa": 24,
+            "prod": 24
+        },
+        "githubBrandFolderName": "sipac"
     }
 ]
